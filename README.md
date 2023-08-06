@@ -31,7 +31,7 @@ This tutorial provides an overview of the necessary prerequisites and installati
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_46fec3f74ebb4eaf803cb5cb612c6939~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/nOYf7dl.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 1: Create a resource group in Azure and name it "RG-osTicket."
@@ -40,7 +40,7 @@ Step 1: Create a resource group in Azure and name it "RG-osTicket."
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_77387910fc1a4be8b67ed724302d2e44~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/qShPTT5.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 2: Create a virtual machine and select "RG-osTicket" as the resource group and "Windows 10 Pro, Version 21H2" as the image.
@@ -49,7 +49,7 @@ Step 2: Create a virtual machine and select "RG-osTicket" as the resource group 
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_05b52ea6778e40a090e17941939c969b~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/SxeQ58M.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 3: Use the Remote Desktop Connection to connect to the virtual machine (VM) using its public IP address.
@@ -79,7 +79,7 @@ Step 5: Enable Internet Information Services (IIS) and CGI.
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_69ba87d49db24386a77890054495d507~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/zJYnOhU.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p align="center"> 
 <img src="https://static.wixstatic.com/media/2ebf04_ef74369fcc68481b9d6a42c04ba21362~mv2.png" height="50%" width="50%" alt="osTicket: Prerequisites and Installation"/>
@@ -184,7 +184,7 @@ Step 15: Click on "Register new PHP version" and locate the "php-cgi" file in th
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_ce7d6272c03f4f29a79c4253ff7795b1~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/mzYm9Wf.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 16: Download and extract the latest version of <a href="https://osticket.com/download">osTicket</a>.
@@ -268,7 +268,7 @@ Step 24: Launch Microsoft Edge and navigate to https://localhost/osTicket/setup.
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5d2927f74cf44a24b9fed7eddeae24a9~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://i.imgur.com/w45RzOX.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 25: Complete all the required fields for the "System" and "Admin User" settings.
@@ -331,7 +331,7 @@ Step 31: Access the include folder in osTicket, then navigate to ost-config.php.
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_8e7f7b6aece0475f8c5a5443207fd7d2~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://imgur.com/RHmAvVK.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 32: Log in to https://localhost/osTicket/scp/login.php.
@@ -340,7 +340,7 @@ Step 32: Log in to https://localhost/osTicket/scp/login.php.
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5f95f05113564d6ebf9f4615d146d2ce~mv2.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
+<img src="https://imgur.com/fkkEvoh.png" height="80%" width="80%" alt="osTicket: Prerequisites and Installation"/>
 </p>
 <p>
 Step 33: If everything was installed correctly, we should see this page.
